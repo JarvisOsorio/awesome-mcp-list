@@ -1,1 +1,1 @@
-@/tmp/mobinx-merged.md
+PLACEHOLDER_WILL_REPLACE
